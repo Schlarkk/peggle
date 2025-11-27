@@ -84,6 +84,5 @@ Underneath will be multiple gifs showing the Main menu + an audio file of the ma
 
 
 The song used in the background for the main menu
-
-[Lobotomy Corporation Full Soundtrack ＂story 1＂ - Nepsol.mp3](https://github.com/user-attachments/files/23797829/Lobotomy.Corporation.Full.Soundtrack.story.1.-.Nepsol.mp3)
+https://www.youtube.com/watch?v=xSj7o_DIN-Q&list=RDxSj7o_DIN-Q&start_radio=1
 
