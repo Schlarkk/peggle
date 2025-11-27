@@ -71,3 +71,19 @@ EGO, would be a chargeble bar above your **Sin** chargers that if charged with e
 
 
 
+# Things aready finished for now
+Currently there isn't much finished about the game except for the main menu, as the actualy game is still a big old placeholder, most of it is just gray squars and such with the main menu actually looking alright.
+Underneath will be multiple gifs showing the Main menu + an audio file of the main song used.
+
+
+![ezgif com-crop (9)](https://github.com/user-attachments/assets/f57ab4d1-e18d-46a7-847a-06466abfd99f)
+
+![ezgif com-crop (10)](https://github.com/user-attachments/assets/fd9decb0-d0ed-4187-bcaa-1dd366350df0)
+
+![ezgif com-crop (11)](https://github.com/user-attachments/assets/6b7a771f-143e-4375-a194-3d3bfdf185ee)
+
+
+The song used in the background for the main menu
+
+[Lobotomy Corporation Full Soundtrack ＂story 1＂ - Nepsol.mp3](https://github.com/user-attachments/files/23797829/Lobotomy.Corporation.Full.Soundtrack.story.1.-.Nepsol.mp3)
+
