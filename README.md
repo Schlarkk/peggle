@@ -86,3 +86,10 @@ Underneath will be multiple gifs showing the Main menu + an audio file of the ma
 The song used in the background for the main menu
 https://www.youtube.com/watch?v=xSj7o_DIN-Q&list=RDxSj7o_DIN-Q&start_radio=1
 
+
+# Below here are the different gif's for ingame footage
+Here you can see me shooting pellets, gaining points and creating new pellets
+
+
+![ezgif com-video-to-gif-converter (9)](https://github.com/user-attachments/assets/83376fda-92e2-44a3-8a56-8682a8e23d07)
+
